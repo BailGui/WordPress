@@ -1,0 +1,6 @@
+.is-style-tertiary-button .wp-element-button, .wp-block-button__link {
+    padding: 14px 24px;
+    border-radius: 0;
+    font-size: 14px;
+    line-height: 1;
+}

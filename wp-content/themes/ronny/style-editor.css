@@ -1,0 +1,25 @@
+/*!
+ * Ronny Editor Styles
+ */
+
+.wp-site-blocks .ronny-header-ticker {
+    opacity: 1;
+}
+.is-root-container.wp-site-blocks {
+    padding: 15px 5vw;
+}
+.block-editor-block-list__layout .ronny-swiper-holder.swiper-wrapper {
+    display: inline-block !important;
+}
+.block-editor-block-list__layout .ronny-swiper-holder.swiper-wrapper li {
+    display: none;
+}
+.block-editor-block-list__layout .ronny-swiper-holder.swiper-wrapper li:first-child {
+    display: block;
+}
+.block-editor-block-list__block.wp-block.wp-block-group.ronny-banner-slider-controls .wp-block.wp-block-html{
+    display: none;
+}
+.block-editor-block-list__block.wp-block.wp-block-group.ronny-banner-slider-controls .wp-block.wp-block-html.is-selected{
+    display: block;
+}

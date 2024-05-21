@@ -1,0 +1,388 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Innovation Lite\n"
+"POT-Creation-Date: 2019-06-17 00:55+0600\n"
+"PO-Revision-Date: 2015-10-29 02:02+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:12 functions.php:150
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:12 functions.php:150
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:12
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments are Closed"
+msgstr ""
+
+#: front-page.php:66
+msgid "Learn More"
+msgstr ""
+
+#: functions.php:19 header.php:45
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:19
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:115
+msgid "Theme by:"
+msgstr ""
+
+#: functions.php:115
+msgid "Powered by:"
+msgstr ""
+
+#: functions.php:130 functions.php:136
+msgid "Read More"
+msgstr ""
+
+#: functions.php:150
+msgid "Edit"
+msgstr ""
+
+#: functions.php:150
+msgid "Comments"
+msgstr ""
+
+#: functions.php:159
+msgid "NEWER ENTRIES"
+msgstr ""
+
+#: functions.php:160
+msgid "OLDER ENTRIES"
+msgstr ""
+
+#: functions.php:168
+msgid "SORRY, NOT FOUND ANYTHING"
+msgstr ""
+
+#: functions.php:169
+msgid "You Can Try Another Search..."
+msgstr ""
+
+#: functions.php:171
+msgid "&laquo; Or Return to the Home Page"
+msgstr ""
+
+#: functions.php:181
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:190
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: functions.php:199
+msgid "Footer Area One"
+msgstr ""
+
+#: functions.php:208
+msgid "Footer Area Two"
+msgstr ""
+
+#: functions.php:217
+msgid "Footer Area Three"
+msgstr ""
+
+#: functions.php:227
+msgid "Footer Area Four"
+msgstr ""
+
+#: inc/customize.php:9
+msgid "INNOVATION OPTIONS"
+msgstr ""
+
+#: inc/customize.php:24
+msgid "Use Responsive Layout"
+msgstr ""
+
+#: inc/customize.php:27
+msgid "Check the Box if you want the Responsive Layout of your Website"
+msgstr ""
+
+#: inc/customize.php:33
+msgid "012-345-6789"
+msgstr ""
+
+#: inc/customize.php:41
+msgid "Contact Number"
+msgstr ""
+
+#: inc/customize.php:56
+msgid "Contact E-Mail"
+msgstr ""
+
+#: inc/customize.php:68
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Social Links"
+msgstr ""
+
+#: inc/customize.php:84
+msgid "Social Link - "
+msgstr ""
+
+#: inc/customize.php:87
+msgid ""
+"Input Your Social Page Link. Example: <b>http://facebook.com/d5creation</b>"
+msgstr ""
+
+#: inc/customize.php:97
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Slide Images"
+msgstr ""
+
+#: inc/customize.php:116
+msgid "Slide Image"
+msgstr ""
+
+#: inc/customize.php:119
+msgid ""
+"Upload or Input the Slide Image URL Here. Recommended Size: 2300px X 700px"
+msgstr ""
+
+#: inc/customize.php:132
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Featured Boxes"
+msgstr ""
+
+#: inc/customize.php:150
+msgid "Icon Name"
+msgstr ""
+
+#: inc/customize.php:153
+msgid "Icon Name from"
+msgstr ""
+
+#: inc/customize.php:158
+msgid "Innovation Responsive"
+msgstr ""
+
+#: inc/customize.php:166 inc/customize.php:199
+msgid "Featured Title"
+msgstr ""
+
+#: inc/customize.php:174
+msgid ""
+"The Color changing options of Innovation Lite will give the WordPress Driven "
+"Site an attractive look. Innovation Lite is super elegant and Professional "
+"Responsive Theme which will create the business widely expressed"
+msgstr ""
+
+#: inc/customize.php:182
+msgid "Featured Description"
+msgstr ""
+
+#: inc/customize.php:213
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Portfolio"
+msgstr ""
+
+#: inc/customize.php:220
+msgid "A FEW FROM OUR PORTFOLIO"
+msgstr ""
+
+#: inc/customize.php:228
+msgid "Portfolio Boxes Heading"
+msgstr ""
+
+#: inc/customize.php:235 inc/customize.php:407
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua"
+msgstr ""
+
+#: inc/customize.php:243
+msgid "Portfolio Boxes Heading Description"
+msgstr ""
+
+#: inc/customize.php:265
+msgid "Portfolio Image"
+msgstr ""
+
+#: inc/customize.php:268
+msgid "Uoload the Portfolio Image. The Sample Image is 400px X 300px"
+msgstr ""
+
+#: inc/customize.php:274 inc/customize.php:447
+msgid "OUR PROJECT "
+msgstr ""
+
+#: inc/customize.php:282 inc/customize.php:314
+msgid "Portfolio Title"
+msgstr ""
+
+#: inc/customize.php:290
+msgid "Innovation Lite is a Professional Responsive Theme"
+msgstr ""
+
+#: inc/customize.php:298
+msgid "Portfolio Description"
+msgstr ""
+
+#: inc/customize.php:329
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Front Page Heading"
+msgstr ""
+
+#: inc/customize.php:336
+msgid "WordPress is web <em>software you can use to create websites!</em>"
+msgstr ""
+
+#: inc/customize.php:344
+msgid "Heading"
+msgstr ""
+
+#: inc/customize.php:351
+msgid ""
+"It is Amazing!  <em>Over 60 million people</em> have chosen WordPress to "
+"power the place on the web"
+msgstr ""
+
+#: inc/customize.php:359
+msgid "Heading Description"
+msgstr ""
+
+#: inc/customize.php:367
+msgid "https://wordpress.org/themes/author/d5creation"
+msgstr ""
+
+#: inc/customize.php:375
+msgid "Button URL"
+msgstr ""
+
+#: inc/customize.php:386
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Staff Boxes"
+msgstr ""
+
+#: inc/customize.php:392
+msgid "WE ARE INSIDE"
+msgstr ""
+
+#: inc/customize.php:400
+msgid "Staff Boxes Heading"
+msgstr ""
+
+#: inc/customize.php:415
+msgid "Staff Boxes Heading Description"
+msgstr ""
+
+#: inc/customize.php:438
+msgid "Staff Image"
+msgstr ""
+
+#: inc/customize.php:441
+msgid "Uoload the Staff Image. The Sample Image is 300px X 200px"
+msgstr ""
+
+#: inc/customize.php:455
+msgid "Staff Name"
+msgstr ""
+
+#: inc/customize.php:463
+msgid "Service Executive"
+msgstr ""
+
+#: inc/customize.php:471
+msgid "Staff Designation"
+msgstr ""
+
+#: inc/customize.php:486
+msgid "Staff Social Links - "
+msgstr ""
+
+#: inc/customize.php:489
+msgid ""
+"Input Your Social Page Link. Example: <b>https://facebook.com/d5creation</b>"
+msgstr ""
+
+#: inc/customize.php:529
+msgid "Profile Link - "
+msgstr ""
+
+#: inc/customize.php:532
+msgid "Input Your Profile Page Link here"
+msgstr ""
+
+#: post-content.php:19
+msgid "SEARCH RESULTS"
+msgstr ""
+
+#: post-content.php:20
+msgid "Search Term:"
+msgstr ""
+
+#: post-content.php:21
+msgid "Number of Results:"
+msgstr ""
+
+#: post-content.php:49
+msgid "Previous Image"
+msgstr ""
+
+#: post-content.php:50
+msgid "Next Image"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Innovation Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://d5creation.com/theme/innovation"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Innovation Lite is CSS3 Powered and WordPress Latest Version Ready "
+"Responsive Theme.  Innovation Lite has Multi Layered Slider, Portfolio and "
+"Animated Staff Box Items.  Super Elegant and Professional Innovation Lite "
+"Theme will be adjusted automatically with all smart devices if the "
+"Responsive Layout be selected.  Full Wide Template can be used for showing "
+"showcase or other pages. Featured Boxes, Portfolio and Staff Boxes can "
+"represent your company to the world. You can Visit the Innovation Demo at "
+"http://demo.d5creation.com/themes/?theme=Innovation and Innovation "
+"descriptions at https://d5creation.com/theme/innovation"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "D5 Creation"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://d5creation.com"
+msgstr ""

@@ -1,0 +1,670 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ronny\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-29 11:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.5\n"
+"X-Domain: ronny"
+
+#: inc/dashboard/theme-dashboard.php:455
+msgid " Already rated"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:456
+msgid " Remind Later"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:454
+msgid " Sure Thing"
+msgstr ""
+
+#. %1$s is link start tag, %2$s is link end tag.
+#: inc/dashboard/theme-dashboard.php:446
+#, php-format
+msgid ""
+" We hope you love it, and we would really appreciate it if you would "
+"%1$srate us%2$s and spread your positive words."
+msgstr ""
+
+#. %s: Button Label
+#: inc/dashboard/sections/recommended-plugins.php:47
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:44
+msgid "15+"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:43
+msgid "5"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:69
+msgid "5+ Preloaders"
+msgstr ""
+
+#. About link placeholder
+#: patterns/featured-centered-text-small.php:17
+msgid "[Ronny]"
+msgstr ""
+
+#: functions.php:234
+msgid ""
+"A collection of feature-rich patterns for Multipurpose Business Website."
+msgstr ""
+
+#: functions.php:239
+msgid "A collection of feature-rich patterns for News and Magazine Website."
+msgstr ""
+
+#: functions.php:229
+msgid "A collection of full page layouts."
+msgstr ""
+
+#: patterns/footer.php:46
+msgid "About"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:717
+msgid "Activate"
+msgstr ""
+
+#: functions.php:151
+msgid "Activate Grayscale Filter for Images"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:716
+msgid "Activated"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:715
+msgid "Activating"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:84
+msgid "Additional 1200+ Google Fonts"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:234
+msgid "Adds various highly effective sign-up methods to your site."
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:113
+msgid "Advance Typography"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:112
+msgid "All Premium Modules"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:137
+msgid "And many more features"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:121
+msgid "and Much More Stuff..."
+msgstr ""
+
+#: functions.php:159
+msgid "Arrow icon"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:220
+msgid "Awesome starter templates for themes made by ThemeInWP."
+msgstr ""
+
+#: functions.php:233
+msgctxt "Block pattern category"
+msgid "Business"
+msgstr ""
+
+#: functions.php:238
+msgctxt "Block pattern category"
+msgid "Magazine"
+msgstr ""
+
+#: functions.php:228
+msgctxt "Block pattern category"
+msgid "Pages"
+msgstr ""
+
+#: functions.php:122
+msgid "Blur Image Less"
+msgstr ""
+
+#: functions.php:123
+msgid "Blur Image More"
+msgstr ""
+
+#: functions.php:126
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:87
+msgid "Color option"
+msgstr ""
+
+#. %s: Theme Name.
+#: inc/dashboard/theme-dashboard.php:371
+#, php-format
+msgid ""
+"Congratulations on choosing %s. Create professionally designed pixel-perfect "
+"websites in minutes."
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:75
+msgid "Contact Us"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:73
+msgid ""
+"Coud not find what you were looking for on the documentation? Reach out to "
+"us and our dedicated team of members will help you to solve your problems."
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:245
+msgid "Could not verifry the nonce."
+msgstr ""
+
+#: functions.php:67
+msgid "Custom query area"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:92
+msgid "Darkmode option"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:219
+msgid "Demo Importer Companion"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:415 inc/dashboard/theme-dashboard.php:462
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:398 inc/dashboard/theme-dashboard.php:400
+#: inc/dashboard/sections/getting-started.php:59
+#: inc/dashboard/sections/getting-started.php:64
+msgid "Documentation"
+msgstr ""
+
+#: functions.php:113
+msgid "Dotted"
+msgstr ""
+
+#. About text placeholder
+#: patterns/featured-centered-text-small.php:20
+#, php-format
+msgid ""
+"Embark on a transformative journey with “%1$s”. We weave creativity and "
+"strategy seamlessly to elevate your brand."
+msgstr ""
+
+#: patterns/featured-centered-text.php:20
+msgid ""
+"Experience a transformative journey – where your brand's story comes to life."
+" <em>Ignite</em> Your Brand's Potential with Expert Design Solutions."
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:399
+msgid ""
+"Explore our extensive documentation for comprehensive guidance, spanning "
+"from basic setup to advanced customization."
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:28
+msgid "Features"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:29
+msgid "Free"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:205
+msgid "Free vs Pro"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:118
+msgid "Fully Responsive"
+msgstr ""
+
+#: inc/dashboard/sections/starter-templates.php:20
+msgid ""
+"Get access to carefully crafted professional and visually appealing website "
+"templates, saving you valuable time and effort in the development process."
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:130
+msgid "Get Premium Version"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:386
+msgid "Get Started"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:202
+msgid "Getting Started"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:120
+msgid "Google fonts"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:37
+msgid "Help and support"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:39
+msgid "High priority support"
+msgstr ""
+
+#: patterns/banner-hero-cover.php:16 patterns/banner-hero.php:52
+msgid ""
+"High-resolution photo of architecture, sky, window, glass, building, city, "
+"skyscraper"
+msgstr ""
+
+#: patterns/cta-cover.php:14
+msgid "High-resolution photo of mountain"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:119
+msgid "Highly customizable grid"
+msgstr ""
+
+#. URI of the theme
+#: patterns/footer-centered-logo-nav.php:20
+#: patterns/footer-colophon-3-col.php:89 patterns/footer-cta-centered.php:49
+#: patterns/footer.php:116
+msgid "https://themeinwp.com/theme/ronny"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.themeinwp.com/"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:404
+msgid ""
+"If you run into any hurdles or have questions, Join the Ronny community to "
+"connect with other Ronny enthusiasts."
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:212
+msgid "Import your content, widgets and theme settings with one click."
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:393
+#: inc/dashboard/sections/starter-templates.php:26
+msgid "Install & Activate"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:388
+msgid ""
+"Install and activate all recommended plugins to import starter templates."
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:714
+msgid "Installed"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:713
+msgid "Installing"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Introducing Ronny, the epitome of modernity in WordPress themes, seamlessly "
+"blending functionality with aesthetics to cater to the dynamic demands of "
+"news, magazine, business, and agency websites. Ronny is more than just a "
+"theme; it's a comprehensive solution tailored for the Gutenberg era, "
+"offering Full Site Editing capabilities to empower users with unparalleled "
+"customization freedom."
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:233
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:116
+msgid "More Color Options"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:115
+msgid "More Footer Options"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:114
+msgid "More Header Options"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:117
+msgid "More Starter Templates"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:46
+msgid "Navigation"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:70
+msgid "Need Help?"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:750
+msgid "No dismissable notice found."
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:247
+msgid "Not found!"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:767
+msgid "Notice Dismissed Successfully"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:211
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:246
+msgid "Oops! something went wrong."
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:48
+msgid "Pages"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:51
+msgid "Patterns"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:655
+msgid "Please specify a plugin"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:676
+msgid "Plugin Activated Successfully"
+msgstr ""
+
+#: patterns/hidden-post-navigation.php:9 patterns/hidden-post-navigation.php:10
+msgid "Posts"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:42
+msgid "Predesigned website templates"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:67
+msgid "Preloader option"
+msgstr ""
+
+#: functions.php:117
+msgid "Primary"
+msgstr ""
+
+#: patterns/footer.php:70
+msgid "Privacy"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:30
+msgid "Pro"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:72
+msgid "Progressbar option"
+msgstr ""
+
+#: functions.php:66
+msgid "Query"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:41
+msgid "Quick Settings"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:84
+msgid "Rate Us"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:203
+msgid "Recommended Plugins"
+msgstr ""
+
+#. Name of the theme
+msgid "Ronny"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:378
+#: inc/dashboard/sections/getting-started.php:34
+msgid "Ronny Screenshot"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:57
+msgid "RTL ready"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:97
+msgid "Scroll To Top"
+msgstr ""
+
+#: patterns/hidden-search.php:9
+msgctxt "search button text"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-search.php:9 patterns/hidden-sidebar.php:75
+#: patterns/hidden-sidebar.php:75
+msgctxt "search form label"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-sidebar.php:75
+msgctxt "search form placeholder"
+msgid "Search..."
+msgstr ""
+
+#: functions.php:118
+msgid "Secondary"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:47
+msgid "Seo optimized"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:42
+msgid "Site Editor"
+msgstr ""
+
+#: patterns/footer.php:92
+msgid "Social Media"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:244
+msgid "Sorry, you do not have permission to perform this action."
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:38
+msgid "Standard support"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:204 inc/dashboard/theme-dashboard.php:383
+#: inc/dashboard/sections/getting-started.php:30
+#: inc/dashboard/sections/starter-templates.php:18
+msgid "Starter Templates"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:47
+msgid "Styles"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:95
+msgid "Submit a Review"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:403
+msgid "Support & Community"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:52
+msgid "Templates"
+msgstr ""
+
+#: functions.php:119
+msgid "Tertiary"
+msgstr ""
+
+#. %s: Theme Name.
+#: inc/dashboard/theme-dashboard.php:361 inc/dashboard/theme-dashboard.php:437
+#, php-format
+msgid "Thank you for using %s"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:528 inc/dashboard/theme-dashboard.php:529
+#: inc/dashboard/theme-dashboard.php:552
+msgid "Theme Dashboard"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:29
+msgid "Theme Details"
+msgstr ""
+
+#. Author of the theme
+msgid "themeinwp"
+msgstr ""
+
+#: functions.php:114
+msgid "Thin"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:385
+msgid ""
+"To fully capitalize on the features our theme has to offer, please make sure "
+"to visit the theme dashboard page."
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:52
+msgid "Translation ready"
+msgstr ""
+
+#: functions.php:129
+msgid "Truncate 2 Lines"
+msgstr ""
+
+#: functions.php:130
+msgid "Truncate 3 Lines"
+msgstr ""
+
+#: functions.php:131
+msgid "Truncate 4 Lines"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:82
+msgid "Typography color option"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:77
+msgid "Typography font option"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:409
+msgid ""
+"Unlock a world of premium features. Enjoy Premium Blocks, enhanced "
+"functionality, priority support, and much more."
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:18
+#: inc/dashboard/sections/getting-started.php:134
+msgid ""
+"Unlock all the possibilties and true potential with premium version of this "
+"theme"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:107
+msgid "Unlock more features with premium version of this theme"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:17
+msgid "Unlock More with Ronny Pro"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:410
+msgid "Upgrade"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:20
+#: inc/dashboard/sections/getting-started.php:28
+#: inc/dashboard/sections/getting-started.php:135
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:408
+msgid "Upgrade to Ronny Pro"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:24
+msgid ""
+"We want to make sure you have the best experience using the theme and that "
+"is why we gathered here all the necessary information for you. Also check "
+"out premium version of the theme if you need more features."
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:94
+msgid ""
+"We welcome your feedback and would be thankful for the review you provide."
+msgstr ""
+
+#. %s: Theme Name.
+#: inc/dashboard/sections/getting-started.php:16
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:64
+#: inc/dashboard/sections/free-vs-pro.php:89
+#: inc/dashboard/sections/free-vs-pro.php:99
+msgid "With more options"
+msgstr ""
+
+#: inc/dashboard/sections/free-vs-pro.php:62
+msgid "WooCommerce ready"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:405
+msgid "WP.org Community"
+msgstr ""
+
+#: inc/dashboard/sections/getting-started.php:62
+msgid ""
+"You'll find all the information you need to get started with the theme in "
+"the documentation. If you did not find the solution, you can always contact "
+"us."
+msgstr ""
+
+#: patterns/footer-centered-logo-nav.php:22
+#: patterns/footer-colophon-3-col.php:91 patterns/footer-cta-centered.php:51
+#: patterns/footer.php:118
+#, php-format
+msgid "© 2023 · Powered by WordPress and %1$s"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:456
+msgid "⏰"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:455
+msgid "👍"
+msgstr ""
+
+#: inc/dashboard/theme-dashboard.php:454
+msgid "😎"
+msgstr ""
